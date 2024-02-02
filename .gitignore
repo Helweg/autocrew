@@ -15,8 +15,5 @@ Inactive/*.*
 crewai-autocrew-202*.*
 *.pyc
 *.log
-*.ini
 .vscode/settings.json
 test.py
-
-config.ini
